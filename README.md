@@ -26,14 +26,15 @@ npm start
 ```
 
 ### Physical Phone
+
 - install expo app
 - open expo app
 - scan QR Code
 
 ### Virtual Device
+
 - install android studio
 - create virtual device
 - install expo
 - open expo app
 - Press 'a' in Metro Bundler or enter URL manually
-
